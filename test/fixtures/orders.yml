@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  patient: one
+  doctor: one
+  date_of_order: 2024-06-13
+  status: MyString
+  order_barcode_id: MyString
+
+two:
+  patient: two
+  doctor: two
+  date_of_order: 2024-06-13
+  status: MyString
+  order_barcode_id: MyString

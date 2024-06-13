@@ -1,2 +1,7 @@
 class LabStaff < ApplicationRecord
-end
+    belongs_to :user
+  
+    validates :department, presence: true
+    validates :employee_id, presence: true, uniqueness: true
+  end
+  
