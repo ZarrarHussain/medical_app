@@ -1,0 +1,2 @@
+class LabStaff < ApplicationRecord
+end

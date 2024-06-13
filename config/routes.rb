@@ -1,4 +1,8 @@
 Rails.application.routes.draw do
+  get 'rider/index'
+  get 'lab_staff/index'
+  get 'patient/index'
+  get 'doctor/index'
   devise_for :users
   root to: 'user#index'
 

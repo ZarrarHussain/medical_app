@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  dob: 2024-06-13
+  address: MyText
+  contact_number: MyString
+  fasting_req: MyText
+
+two:
+  dob: 2024-06-13
+  address: MyText
+  contact_number: MyString
+  fasting_req: MyText
